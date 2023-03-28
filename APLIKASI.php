@@ -1,7 +1,6 @@
 <html>
-
 <head>
-    <title>PENJUMLAHAN</title>
+    <title>PEMJUMLAHAN</title>
 </head>
 
 <body>
@@ -12,6 +11,9 @@
         Bilangan 2 : <br>
         <input type="text" name="txtbil2"><br>
         <button type="submit">TAMBAH</button>
-</form>
+        <button type="submit">KURANG</button>
+        <button type="submit">PERKALIAN</button>
+        <button type="submit">PEMBAGIAN</button>
+    </form>
 </body>
 </html>
